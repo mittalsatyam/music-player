@@ -1,0 +1,80 @@
+<html>
+<audio controls id="music">
+  <source src="heavy-rain-daniel_simon.mp3" type="audio/mp3" >
+  Your browser does not support the audio element.
+</audio>
+
+<p>Click the buttons to play or pause the music.</p>
+
+<button onclick="playSong()" type="button">Play </button>
+<button onclick="pause()" type="button">Pause</button>
+
+<script>
+
+  var myMusic = document.getElementById("music");
+  console.log(myMusic);
+  function playSong() {
+    myMusic.play();
+  }
+
+  function pause() {
+    myMusic.pause();
+  }
+</script>
+
+</html>
+
+
+$(document).ready(function () {
+      $('.outer').click(function () {
+        if (change) {
+          $(".inner").animate({ left: '70%' });
+          $("body").css("background-color", "black");
+          $("p").css("color", "white");
+          change = false;
+        } else {
+          $(".inner").animate({ left: '0px' });
+          $("body").css("background-color", "white");
+          $("p").css("color", "black");
+          change = true;
+        }
+      });
+    });
+
+  </script>
+
+</body>
+
+</html>
+
+
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>
+    var change = true;
+
+    $(document).ready(function () {
+      $('.outer').click(function () {
+        if (change) {
+          $(".inner").animate({ left: '70%' });
+          $("body").css("background-color", "black");
+          $("p").css("color", "white");
+          change = false;
+        } else {
+          $(".inner").animate({ left: '0px' });
+          $("body").css("background-color", "white");
+          $("p").css("color", "black");
+          change = true;
+        }
+      });
+    });
+
+  </script>
+
+</body>
+
+</html>
+
+
+

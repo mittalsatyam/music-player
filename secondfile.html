@@ -1,0 +1,42 @@
+<html>
+<head>
+	<style>
+		.btn1 button{
+			font-size:40px;
+		}
+		.btn2 button{
+			font-size:40px;
+		}
+		.colo{
+			height:200px;
+			width:200px;
+			margin:20px; 
+			background-color: lightgreen;
+		}
+		.shap{
+			height:100px;
+			width:100px;
+			margin:20px; 
+			background-color: darkgrey;
+		}
+	</style>
+</head>
+<body>
+	<div class=btn1>
+		<button class="f">PLAY COLOR</button>
+	</div>
+	<div class="btn2">
+		<button class="g">PLAY SHAPE</button>
+	</div>
+	<div class="colo">
+		<div class="shap">
+		</div>
+	</div>
+	<script>
+	var heading=document.getElementsClassName("f");
+	heading.addEventsListener("click",function(){
+		document.getElementsByClassName("colo").style.backgroundColor="pink";
+	});
+</script>
+</body>
+</html>

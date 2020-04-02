@@ -1,0 +1,519 @@
+<html>
+    <head>
+      <link rel="stylesheet" type="text/css" href="style2.css" />
+    </head>
+    <body>
+    <section id="first">
+<header id="first-header">
+  <ul>
+  <li id="second">
+<img src="hatke1.png">
+</li>
+<li id="fav">
+   Coldplay
+</li>
+
+<input type="text" placeholder="search">
+<i class="fas fa-bell"></i>
+<li id="image">
+<img src="saty.jpg">
+</li>
+</ul>
+</header>
+    </section>
+    <main>
+
+      <div class="first-image">
+      <img src="arijitpage.jpg">
+    </div>
+    <div class="likho1">
+    <p id="likho">
+      In 2008, she launched her first album, Neha-The Rock Star and the music was composed by Meet Bros.[6] She has worked in songs "Sunny Sunny" from movie Yaariyan, "Manali Trance" from movie The Shaukeens, "Aao Raja" with singer Yo Yo Honey Singh from movie Gabbar is Back, 
+    </p>
+  </div>
+
+<!------------------ song-queue----------------!--->
+
+
+<div class="song-image">
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song1.jpg">
+   <div id="yes">
+      <div id="name">Beuti</p>
+         <p id="time">3:41</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song2.jpg">
+    <div id="yes">
+      <div id="name">Mary</p>
+         <p id="time">4:41</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+    <div class="song-queue">
+       <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song3.jpg">
+     <div id="yes">
+      <div id="name">God</p>
+         <p id="time">3:51</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+ <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song2.jpg">
+    <div id="yes">
+      <div id="name">Mary</p>
+         <p id="time">4:41</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song4.jpg">
+     <div id="yes">
+      <div id="name">rOCK</p>
+         <p id="time">4:01</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="tulsi.jpg">
+     <div id="yes">
+      <div id="name">Rabba</p>
+         <p id="time">5:20</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+<div class="song-queue">
+   <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song6.jpg">
+     <div id="yes">
+      <div id="name">Romio</p>
+         <p id="time">4:39</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song7.jpg">
+     <div id="yes">
+      <div id="name">Trafic</p>
+         <p id="time">5:11</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song8.jpg">
+     <div id="yes">
+      <div id="name">Moon</p>
+         <p id="time">4:40</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song9.jpg">
+      <div id="yes">
+      <div id="name">Star</p>
+         <p id="time">3:59</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="gassi.jpg">
+     <div id="yes">
+      <div id="name">nikle</p>
+         <p id="time">5:41</p>
+</div>
+
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="atif.jpg">
+     <div id="yes">
+      <div id="name">Doorie</p>
+         <p id="time">4:31</p>
+</div>
+
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="arijit.jpg">
+     <div id="yes">
+      <div id="name">Pal</p>
+        <p id="time">4:41</p>
+</div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue">
+    <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="tulsi.jpg">
+     <div id="yes">
+      <div id="name">tere ban</p>
+         <p id="time">3:51</p>
+       </div>
+</div>
+<div class="logo">
+  <img src="dill1.png">
+</div>
+</div>
+</div>
+</main>
+
+
+
+
+
+
+<!---------------aside  Latest relesase-------------!-->
+<aside>
+      <p class="la">Latest release</p>
+<div class="container">
+
+      <div class="first-container">
+      <img src="sha.jpg">
+      <p class="inline">Shadow</p>
+      <p id="col">Augest 2019 &nbsp ...
+      </p>
+      </div>
+      <div class="first-container">
+        <img src="both.jpg">
+          <p class="inline">Both</p>
+   <p id ="col">Sep 2,2019 &nbsp ...
+      </p>
+      </div>
+      <div class="first-container">
+        <img src="ju.jpg">
+         <p class="inline">juicy</p>
+      <p id="col">Augest 4,2019 &nbsp ...
+      </p>
+      </div>
+      <div class="first-container">
+        <img src="bo.jpg">
+         <p class="inline">Boys</p>
+      <p id="col">Jun 2,2019 &nbsp
+      </p>
+      </div>
+    </div>
+      <p class="la le">Recentetly Played</p>
+<!-- latest release--------------------!-->
+
+<div class="song-image sp">
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song1.jpg">
+   <div id="yes">
+      <div id="name">Beuti</p>
+         <p id="time">3:41</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song2.jpg">
+    <div id="yes">
+      <div id="name">Mary</p>
+         <p id="time">4:41</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+    <div class="song-queue pe">
+       <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song3.jpg">
+     <div id="yes">
+      <div id="name">God</p>
+         <p id="time">3:51</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song4.jpg">
+     <div id="yes">
+      <div id="name">rOCK</p>
+         <p id="time">4:01</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="tulsi.jpg">
+     <div id="yes">
+      <div id="name">Rabba</p>
+         <p id="time">5:20</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+<div class="song-queue pe">
+   <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song6.jpg">
+     <div id="yes">
+      <div id="name">Romio</p>
+         <p id="time">4:39</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song7.jpg">
+     <div id="yes">
+      <div id="name">Trafic</p>
+         <p id="time">5:11</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song8.jpg">
+     <div id="yes">
+      <div id="name">Moon</p>
+         <p id="time">4:40</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="song9.jpg">
+      <div id="yes">
+      <div id="name">Star</p>
+         <p id="time">3:59</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="gassi.jpg">
+     <div id="yes">
+      <div id="name">nikle</p>
+         <p id="time">5:41</p>
+</div>
+
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="atif.jpg">
+     <div id="yes">
+      <div id="name">Doorie</p>
+         <p id="time">4:31</p>
+</div>
+
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+     <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="arijit.jpg">
+     <div id="yes">
+      <div id="name">Pal</p>
+        <p id="time">4:41</p>
+</div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+  <div class="song-queue pe">
+    <div class="play">
+     <p>
+      play
+      </p>
+    </div>
+    <img src="tulsi.jpg">
+     <div id="yes">
+      <div id="name">tere ban</p>
+         <p id="time">3:51</p>
+       </div>
+</div>
+<div class="logo logo1">
+  <img src="dill1.png">
+</div>
+</div>
+</div>
+
+  </aside>

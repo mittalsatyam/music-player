@@ -1,0 +1,82 @@
+<head>  
+<style> 
+
+	.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: red;
+    color: blue;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    opacity: 0;  
+    transition: opacity 5s;  
+  
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+	div {  
+    padding:15px;
+    width: 150px;  
+    height: 100px;  
+    background: violet;  
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* For Safari 3.1 to 6.0 */  
+    transition: width 2s, height 2s, transform 2s;  
+}  
+div:hover {  
+    width: 300px;  
+    height: 200px;  
+    -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */  
+    transform: rotate(360deg);  
+}  
+#grad1 {  
+    height: 100px;  
+    background: -webkit-linear-gradient(red, green); /* For Safari 5.1 to 6.0 */  
+    background: -o-linear-gradient(red, green); /* For Opera 11.1 to 12.0 */  
+    background: -moz-linear-gradient(red, green); /* For Firefox 3.6 to 15 */  
+    background: linear-gradient(red, green); /* Standard syntax (must be last) */  
+}    
+#grad1 {  
+    height: 150px;  
+    width: 200px;  
+    background: -webkit-radial-gradient(blue, green, red); /* Safari 5.1 to 6.0 */  
+    background: -o-radial-gradient(blue, green, red); /* For Opera 11.6 to 12.0 */  
+    background: -moz-radial-gradient(blue, green, red); /* For Firefox 3.6 to 15 */  
+    background: radial-gradient(blue, green, red); /* Standard syntax (must be last) */  
+} 
+/* Chrome, Safari, Opera */  
+@-webkit-keyframes myfirst {  
+    from {background: red;}  
+    to {background: black;}  
+}  
+/* Standard syntax */  
+@keyframes myfirst {  
+    from {background: red;}  
+    to {background: black;}  
+}  
+</style>  
+</head>  
+<body>  
+<p><b>Note:</b> The IE 9 and earlier versions don't support CSS3 animation property. </p>  
+<p>See the rectangle background from RED to BLACK.</p>
+<div id="grad1"></div>  
+<p>Move the mouse over the text below:</p>
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">This is tooltip text</span>
+</div>
+<h3>Linear Gradient - Top to Bottom</h3>  
+<p>This linear gradient starts at the top. It starts red, transitioning to green:</p>  
+<div></div>  
+<p>Move the cursor over the div element above, to see the transition effect.</p>
+<div><b>JavaTpoint.com</b><p> (Move your cursor on me to see the effect)</p></div>  
+</body>  
+</html>  
+
+ 
